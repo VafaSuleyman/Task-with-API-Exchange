@@ -89,6 +89,10 @@ ul{
     margin-bottom: 25px;
 }
 
+.exchane-content-main-from{
+    margin-right: 10%;
+}
+
 .exchane-content-main-from-exch-value li,
 .exchane-content-main-to-exch-value li{
     padding: 10px 20px;
